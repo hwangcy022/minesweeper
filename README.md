@@ -2,6 +2,9 @@
 
 2022022004 천문우주학과 황채연
 
+- 배포 주소: https://minesweeper-rose-ten.vercel.app
+- GitHub: https://github.com/hwangcy022/minesweeper
+
 React + Vite로 만든 지뢰찾기 웹 게임입니다. 모든 플레이어의 게임 결과(승/패, 소요 시간)는 Supabase에 저장되고,
 게임 리뷰를 작성할 수 있습니다. 회원가입/로그인 없이 바로 플레이합니다.
 
